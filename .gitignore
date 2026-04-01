@@ -1,0 +1,18 @@
+**/.terraform/**
+terraform.tfstate
+terraform.tfstate.backup
+.DS_Store
+terraform/.terraform.lock.hcl
+**/*.iml
+**/*/target
+.idea/
+errored.tfstate
+__pycache__
+artifacts
+.trackio
+mlflow.db
+env.json
+.venv
+cost comparison data
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,5 @@
+SchemaVersion: '1.0'
+SageMaker:
+  PythonSDK:
+    Modules:
+      TelemetryOptOut: true
